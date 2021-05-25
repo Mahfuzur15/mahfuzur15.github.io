@@ -1,0 +1,56 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+.navleft{
+    font-family: 'Raleway', sans-serif;
+    margin:px 40px;
+    font-size: 35px;
+}
+.navbar-container{
+    background-color: rgba(111, 121, 95, 0.548)!important;
+}
+    
+.navlink{
+    color: rgba(255, 255, 255, 0.562)!important;
+}
+.navlink:hover{
+    color: whitesmoke!important;
+}
+
+
+.main-container{
+    background: linear-gradient(rgba(59, 58, 58, 0.76), rgba(0, 0, 0, 0.692)), url(../img/dhan.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+}
+
+.hello{
+    width: 150px;
+    height: 40px;
+    padding: 9px 5px;
+    background-color: #0BBBA0;
+    border-top-left-radius: 45px;
+    border-top-right-radius: 45px;
+    border-bottom-right-radius: 45px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.hello:hover{
+    color: black;
+}
+
+
+.dline{
+    height: 450px;
+    width: 400px;
+
+}
+
+#about{
+    background-color: #1110109f;
+}
+
